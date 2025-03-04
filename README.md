@@ -4,21 +4,8 @@ This repository contains the Phlanka BBP Interior Models Collection Catalogue, w
 
 ## Installation Instructions
 
-You can install these models into your collection catalogue using one of the following methods:
+You can install these models into your collection catalogue:
 
-### Method 1: Manual Import
-1. Download the zip file from this repository.
-2. Extract the zip file to a location on your computer.
-3. Open each Blender file individually.
-4. Add the desired collections to your catalogue manually.
-
-### Method 2: Direct Extraction
-1. Download the zip file from this repository.
-2. Extract the zip file directly to your Blender addons directory:
-   - Path: `C:\Users\*YOURUSERNAME*\AppData\Roaming\Blender Foundation\Blender\4.3\scripts\addons`
-3. This will add the files into your existing Phlanka Library folder.
-
-### Method 3: Automated Script
 1. Open Blender and navigate to the **Scripting** tab.
 2. Click the **+ New** button to create a new text document.
 3. Copy and paste the following script into the text editor:
