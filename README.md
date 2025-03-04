@@ -4,7 +4,8 @@ This repository contains the Phlanka BBP Interior Models Collection Catalogue, w
 
 ## Installation Instructions
 
-You can install these models into your collection catalogue:
+## 📺 [Watch the Installation Tutorial on YouTube](https://youtu.be/iMicJ6XIlV0) 🎥  
+Prefer written steps? Follow along below! 👇  
 
 1. Open Blender and navigate to the **Scripting** tab.
 2. Click the **+ New** button to create a new text document.
